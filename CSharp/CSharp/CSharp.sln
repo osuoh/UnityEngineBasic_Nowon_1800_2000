@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.0.32014.148
+VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstProject", "FirstProject\FirstProject.csproj", "{22C3560D-6DA9-4143-A4DB-35AC5042002E}"
 EndProject
@@ -11,7 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassObjectInstance", "ClassObjectInstance\ClassObjectInstance.csproj", "{A78C7308-3572-4C87-94C7-F5134E34D69E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example01_ClassObjectInstance", "Example01_ClassObjectInstance\Example01_ClassObjectInstance.csproj", "{12964707-1FCC-4343-936C-A254F7515363}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example01_ClassObjectInstance", "Example01_ClassObjectInstance\Example01_ClassObjectInstance.csproj", "{12964707-1FCC-4343-936C-A254F7515363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statement_If", "Statement_If\Statement_If.csproj", "{D61D8235-BABD-4438-8B6A-1F21B12E784F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statement_SwitchCase_And_Enum", "Statement_SwitchCase_And_Enum\Statement_SwitchCase_And_Enum.csproj", "{7AD88286-4BFF-483E-9236-8D33215ACA7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{11F63680-0C14-4AB0-A68E-AFAF570BD16C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{12964707-1FCC-4343-936C-A254F7515363}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12964707-1FCC-4343-936C-A254F7515363}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12964707-1FCC-4343-936C-A254F7515363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61D8235-BABD-4438-8B6A-1F21B12E784F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61D8235-BABD-4438-8B6A-1F21B12E784F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61D8235-BABD-4438-8B6A-1F21B12E784F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61D8235-BABD-4438-8B6A-1F21B12E784F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD88286-4BFF-483E-9236-8D33215ACA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD88286-4BFF-483E-9236-8D33215ACA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD88286-4BFF-483E-9236-8D33215ACA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD88286-4BFF-483E-9236-8D33215ACA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F63680-0C14-4AB0-A68E-AFAF570BD16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F63680-0C14-4AB0-A68E-AFAF570BD16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F63680-0C14-4AB0-A68E-AFAF570BD16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F63680-0C14-4AB0-A68E-AFAF570BD16C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
